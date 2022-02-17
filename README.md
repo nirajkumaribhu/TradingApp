@@ -10,6 +10,7 @@ Demo stock symbols:
 TEA - POP - ALE - GIN - JOE
 
 Available options in the menu:
+
 1 - Calculate dividend (Insert the symbol and the system will output the dividend)
 
 2 - Calculate P/E Ratio (Calculate the price to earnings ration for a selected symbol)
