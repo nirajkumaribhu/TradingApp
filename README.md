@@ -11,13 +11,13 @@ TEA - POP - ALE - GIN - JOE
 
 Available options in the menu:
 
-1 - Calculate dividend (Insert the symbol and the system will output the dividend)
+1 - Calculate dividend (Given any price as input, calculate the dividend yield)
 
-2 - Calculate P/E Ratio (Calculate the price to earnings ration for a selected symbol)
+2 - Calculate P/E Ratio (Given any price as input,  calculate the P/E Ratio)
 
-3 - Add trade (Record a sell or buy a selected trade)
+3 - Record trade (Record a trade, with timestamp, quantity, buy or sell indicator and price)
 
-4 - Calculate volume weighted stock for the past 15 minutes (Calculate the stock shares transactions from the last 15 minutes)
+4 - Calculate volume weighted stock for the past 5 minutes (Calculate Volume Weighted Stock Price based on trades in past 5 minutes)
 
 5 - Calculate GBCE of all shares
 
